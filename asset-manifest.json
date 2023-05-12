@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/github.io/responsive-animated-website/static/css/main.f3844d13.css",
+    "main.js": "/github.io/responsive-animated-website/static/js/main.f005a590.js",
+    "index.html": "/github.io/responsive-animated-website/index.html",
+    "main.f3844d13.css.map": "/github.io/responsive-animated-website/static/css/main.f3844d13.css.map",
+    "main.f005a590.js.map": "/github.io/responsive-animated-website/static/js/main.f005a590.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3844d13.css",
+    "static/js/main.f005a590.js"
+  ]
+}
